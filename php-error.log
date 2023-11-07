@@ -82,3 +82,21 @@ Stack trace:
 #0 /var/www/html/App-Control-gastos/index.php(17): App->__construct()
 #1 {main}
   thrown in /var/www/html/App-Control-gastos/libs/app.php on line 16
+[06-Nov-2023 21:39:00 America/New_York] Inicio de aplicación web!!!
+[06-Nov-2023 21:39:00 America/New_York] APP::construct-> no hay controlador especificado
+[06-Nov-2023 21:39:00 America/New_York] Login::construct -> Inicio de Login
+[06-Nov-2023 21:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Login::loadModel() in /var/www/html/App-Control-gastos/libs/app.php:16
+Stack trace:
+#0 /var/www/html/App-Control-gastos/index.php(24): App->__construct()
+#1 {main}
+  thrown in /var/www/html/App-Control-gastos/libs/app.php on line 16
+[06-Nov-2023 21:42:27 America/New_York] Inicio de aplicación web!!!
+[06-Nov-2023 21:42:27 America/New_York] APP::construct-> no hay controlador especificado
+[06-Nov-2023 21:42:27 America/New_York] Login::construct -> Inicio de Login
+[06-Nov-2023 21:43:25 America/New_York] Inicio de aplicación web!!!
+[06-Nov-2023 21:43:25 America/New_York] APP::construct-> no hay controlador especificado
+[06-Nov-2023 21:43:25 America/New_York] Login::construct -> Inicio de Login
+[06-Nov-2023 21:45:16 America/New_York] Inicio de aplicación web!!!
+[06-Nov-2023 21:45:16 America/New_York] APP::construct-> no hay controlador especificado
+[06-Nov-2023 21:45:16 America/New_York] Login::construct -> Inicio de Login
+[06-Nov-2023 21:45:16 America/New_York] Login::render -> Carga el index de login
