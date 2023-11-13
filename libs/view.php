@@ -3,8 +3,7 @@
 class View{
 
 
-    function __construct(){
-        
+    function __construct(){        
     }
 
     function render($nombre, $data = []){
@@ -12,4 +11,7 @@ class View{
 
         require 'views/' . $nombre . '.php';
     }
+
+    
+
 }
