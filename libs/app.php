@@ -1,5 +1,7 @@
 <?php
 
+require_once 'controllers/errores.php';
+
 class App{
 
 
@@ -45,12 +47,14 @@ class App{
                     }
                 }else{
                     //error no existe metodo
+                    $controller = new Errores();
                 }
             }else{
                 //No hay metodo a cargar, se carga el metodo por default
                 $controller->render();
             }
         }else{
+            $controller = new Errores();
             //no existe el archivo, manda error
         }
     }
