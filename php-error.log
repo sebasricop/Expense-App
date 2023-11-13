@@ -100,3 +100,59 @@ Stack trace:
 [06-Nov-2023 21:45:16 America/New_York] APP::construct-> no hay controlador especificado
 [06-Nov-2023 21:45:16 America/New_York] Login::construct -> Inicio de Login
 [06-Nov-2023 21:45:16 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 09:55:14 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 09:55:14 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 09:55:14 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 09:55:14 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 09:55:34 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 09:55:34 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 09:55:34 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 09:55:34 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 10:59:10 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 10:59:10 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 10:59:10 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 10:59:10 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:40:08 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:40:08 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:40:08 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:40:08 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:40:30 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:40:30 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:40:30 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:40:30 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:40:30 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:40:30 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:40:30 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:40:30 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:40:48 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:40:48 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:40:48 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:40:48 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:40:55 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:40:55 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:40:55 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:40:55 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:41:13 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:41:13 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:41:13 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:41:13 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 11:41:55 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 11:41:55 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 11:41:55 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 11:41:55 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 14:52:45 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 14:52:45 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 14:52:45 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 14:52:45 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 14:54:42 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 14:54:42 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 14:54:42 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 14:54:42 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 14:56:22 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 14:56:22 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 14:56:22 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 14:56:22 America/New_York] Login::render -> Carga el index de login
+[12-Nov-2023 15:01:55 America/New_York] Inicio de aplicación web!!!
+[12-Nov-2023 15:01:55 America/New_York] APP::construct-> no hay controlador especificado
+[12-Nov-2023 15:01:55 America/New_York] Login::construct -> Inicio de Login
+[12-Nov-2023 15:01:55 America/New_York] Login::render -> Carga el index de login
